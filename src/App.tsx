@@ -58,7 +58,6 @@ const ColorfulCard = () => {
                     >
                         {count}
                     </div>
-
                     <p className="text-gray-600">
 <<<<<<< HEAD
                         {count === 0 ? 'Click to begin!!!!!' : 
