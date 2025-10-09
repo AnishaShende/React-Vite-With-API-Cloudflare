@@ -58,8 +58,13 @@ const ColorfulCard = () => {
                     >
                         {count}
                     </div>
+
                     <p className="text-gray-600">
+<<<<<<< HEAD
                         {count === 0 ? 'Click to begin!!!!!' : 
+=======
+                        {count === 0 ? 'Hello! Click to begin!' : 
+>>>>>>> 32f03bf (hello added)
                          count === 1 ? 'You made your first click!' :
                          count < 10 ? 'Keep going!' :
                          count < 50 ? 'You\'re on fire! 🔥' :
